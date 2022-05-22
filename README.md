@@ -1,2 +1,2 @@
 # CodeFun-Setup
-The setup files of  the "CodeFun" application 
+The setup file of  the "CodeFun" application 
